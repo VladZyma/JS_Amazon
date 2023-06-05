@@ -65,6 +65,9 @@
   font-size: 16px;
   opacity: 0;
 }
+.added-to-cart.active {
+  opacity: 1;
+}
 
 .added-to-cart img {
   height: 20px;
